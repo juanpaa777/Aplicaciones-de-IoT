@@ -42,9 +42,7 @@
 - ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_4e6b449a](https://github.com/user-attachments/assets/27b331a7-88f8-49d1-bb3d-906cbb8f4d8b)
 
 ### Ejercicio 4 Figura 2D o 3D soldada
-- ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_0a2d3408](https://github.com/user-attachments/assets/875e0c1e-489d-4e3a-a13b-d421d507f686)
-- ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_7418d538](https://github.com/user-attachments/assets/d19699e0-1878-43e5-b5d9-4a46cb1b6d07)
-
-
+- ![image](https://github.com/user-attachments/assets/85b8fe57-2f07-441d-9fca-48a5c2a7b087)
+![image](https://github.com/user-attachments/assets/d3dcd959-f499-4474-b266-be3c614065de)
 
 ## 
