@@ -29,7 +29,7 @@
 - Código documentado
 - Video https://drive.google.com/file/d/1181WibLRmZ4Kj7gHTcCtQdIHo_m8BpVB/view?usp=sharing
 ### Ejercicios en Clase: Videos Demostrativos
-- CRUD en PostgreSQL: https://drive.google.com/file/d/1jHx2gcYQaNMwA0cLFYykv22VyuSCAb3V/view?usp=sharing
+- CRUD en PostgreSQL: https://drive.google.com/file/d/19rjT0Cq6syi_gSPHPKCa7RRAgxlR-kYx/view?usp=drivesdk
 - Instalaciones y Configuraciones Básicas: https://drive.google.com/file/d/1aPCBUtrEjv2jJdEJcCJ7r7YQ_uo5GKc4/view?usp=sharing
 - LED y Botón con Raspberry Pi
   -- https://drive.google.com/file/d/1wWOYaVP-p3EJ8OO2Dcb5eAh5b8f4ZBvp/view?usp=sharing
