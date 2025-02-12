@@ -23,11 +23,11 @@
 ### Ejercicio 1: Almacenamiento de Datos
 - Diagrama de conexión
 - Código documentado
-- Video: 
+- Video: https://drive.google.com/file/d/19zwmox14BLTkh85A6XDzeHTUYfqRAxDY/view?usp=drive_link
 ### Ejercicio 2: Control de Actuadores
 - Diagrama de conexión
 - Código documentado
-- Video 
+- Video: https://drive.google.com/file/d/19ybSD1Fv6LRDnqFR49APskonYRqX04XE/view?usp=drive_link
 ### Ejercicios en Clase: Videos Demostrativos
 - CRUD en PostgreSQL: https://drive.google.com/file/d/19rjT0Cq6syi_gSPHPKCa7RRAgxlR-kYx/view?usp=drivesdk
 - Instalaciones y Configuraciones Básicas: https://drive.google.com/file/d/19sQ5HhFz7JVc3DDJHp1dduJrWqA5vVEw/view?usp=drivesdk
