@@ -19,8 +19,6 @@
 
 
 
-
-
 ## Parte Práctica
 ### Ejercicio 1: Almacenamiento de Datos
 - Diagrama de conexión
