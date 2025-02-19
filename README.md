@@ -22,10 +22,14 @@
 ## Parte Práctica
 ### Ejercicio 1: Almacenamiento de Datos
 - Diagrama de conexión
+- ![image](https://github.com/user-attachments/assets/f6fd85db-6f6f-495c-b83a-ccbecea1f5d1)
+
 - Código documentado
 - Video: https://drive.google.com/file/d/19zwmox14BLTkh85A6XDzeHTUYfqRAxDY/view?usp=drive_link
 ### Ejercicio 2: Control de Actuadores
 - Diagrama de conexión
+- ![image](https://github.com/user-attachments/assets/632224e4-c2b0-43ff-b43f-16de2f78749b)
+
 - Código documentado
 - Video: https://drive.google.com/file/d/19ybSD1Fv6LRDnqFR49APskonYRqX04XE/view?usp=drive_link
 ### Ejercicios en Clase: Videos Demostrativos
